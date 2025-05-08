@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Antioquia Multicultural',
   description: 'Explora la diversidad, cultura y comunidad de Antioquia.',
+  icons: {
+    icon: 'colombia-colombia-svgrepo-com.svg'
+  }
 }
 
 export default function RootLayout({ children }: { children: ReactNode }) {

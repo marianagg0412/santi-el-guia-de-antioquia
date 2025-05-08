@@ -7,9 +7,9 @@ export default function Home() {
       <h1 className="text-4xl md:text-6xl font-bold text-emerald-800">
         Antioquia Multicultural
       </h1>
-      <p className="text-lg md:text-xl max-w-2xl mx-auto text-emerald-700">
-        Conoce, celebra y comparte la riqueza cultural de nuestra región. Desde la diversidad étnica hasta eventos y recursos, este espacio es para ti.
-      </p>
+      <p className="text-lg md:text-xl text-emerald-700 mt-4">
+          Descubre la riqueza cultural de nuestra región: desde su diversidad étnica hasta sus tradiciones, festivales y gastronomía.
+        </p>
       <AgentEmbed />
     </div>
   )
